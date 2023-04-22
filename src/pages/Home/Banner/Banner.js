@@ -1,9 +1,9 @@
 import React from 'react';
-import img1 from "../../../assets/carousel-1.jpg";
-import img2 from "../../../assets/carousel-2.jpg";
-import img3 from "../../../assets/carousel-3.jpg";
-import img4 from "../../../assets/carousel-4.jpg";
-import img5 from "../../../assets/carousel-5.jpg";
+import img1 from "../../../assets/carousel-img/carousel-1.jpg";
+import img2 from "../../../assets/carousel-img/carousel-2.jpg";
+import img3 from "../../../assets/carousel-img/carousel-3.jpg";
+import img4 from "../../../assets/carousel-img/carousel-4.jpg";
+import img5 from "../../../assets/carousel-img/carousel-5.jpg";
 import BannerSlide from './BannerSlide';
 
 const bannerData = [
