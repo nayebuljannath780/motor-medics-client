@@ -9,7 +9,7 @@ const Header = () => {
   ]
 
   return (
-    <div className='container mx-auto'>
+    <div className='container mx-auto py-2'>
       <div className="navbar h-5 bg-base-100">
       <div className="navbar-start">
         <div className="dropdown">
