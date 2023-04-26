@@ -5,7 +5,7 @@ import { FaArrowRight,FaArrowLeft } from "react-icons/fa";
 const BannerSlide = ({slide}) => {
     const {image, id, next, prev} = slide;
     return (
-        <div id={`slide${id}`} className="carousel-item relative w-full">
+        <div id={`slide${id}`} className="carousel-item relative w-full px-4">
                 <div className='carousel-img'>
                     <img src={image} className="w-full rounded-xl" alt='' />
                 </div>
